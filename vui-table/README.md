@@ -1,4 +1,5 @@
-```<template>
+```
+<template>
 	<div>
 		<handson-table :hotSettings="hotSettings" />
 	</div>
